@@ -3,4 +3,4 @@ project(Algoritmi_genetici)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Algoritmi_genetici main.cpp)
+add_executable(Algoritmi_genetici AG_codificare.cpp)
