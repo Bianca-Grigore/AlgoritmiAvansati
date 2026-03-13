@@ -1,3 +1,0 @@
-C:/Users/grigo/CLionProjects/Algoritmi_genetici/cmake-build-debug/CMakeFiles/Algoritmi_genetici.dir
-C:/Users/grigo/CLionProjects/Algoritmi_genetici/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/grigo/CLionProjects/Algoritmi_genetici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
